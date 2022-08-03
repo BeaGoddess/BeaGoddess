@@ -7,7 +7,7 @@ I'm studying Integrated Master's in Engineering and Management of Information Sy
 ### Languages and Frameworks
 
 - Java, JavaScript, HTML, CSS, C#, Python, SQL
-- NodeJS, ASP.NET
+- NodeJS, ASP.NET, SpringBoot, JQuery
 
 #
 ### About me
