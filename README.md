@@ -1,10 +1,10 @@
-### Hi there 👋
+### 🤗 Hi there 👋
 
 My name is Beatriz Silva and I'm 23 years old. I'm living in Guimarães, Portugal.
 I have a Master's degree in Engineering and Management of Information Systems.
 
 #
-### Languages and Frameworks
+### 👩🏼‍💻 Languages and Frameworks
 
 - Learned at university
 <p>
@@ -27,7 +27,7 @@ I have a Master's degree in Engineering and Management of Information Systems.
 </p>
 
 #
-### About me
+### 🔎❓ About me
 
 - 🌱 I’m currently learning React, React Native and TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatrizsilva18) or by email beagaara@gmail.com
@@ -38,7 +38,7 @@ I have a Master's degree in Engineering and Management of Information Systems.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beagoddess&layout=compact&theme=dark)
 
-## #30NitesOfCode:
+## 🔮 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@BeaGoddess/30-nites-of-code)  
   ![@BeaGoddess #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BeaGoddess)
 
