@@ -1,10 +1,10 @@
-### 🤗 Hi there 👋
+# 🤗 Hi there 👋
 
 My name is Beatriz Silva and I'm 23 years old. I'm living in Guimarães, Portugal.
 I have a Master's degree in Engineering and Management of Information Systems.
 
-#
-### 👩🏼‍💻 Languages and Frameworks
+
+# 👩🏼‍💻 Languages and Frameworks
 
 - Learned at university
 <p>
@@ -26,17 +26,15 @@ I have a Master's degree in Engineering and Management of Information Systems.
 <img alt="Tailwindcss" width="40px" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
 </p>
 
-#
-### 🔎❓ About me
+
+# 🔎❓ About me
 
 - 🌱 I’m currently learning React, React Native and TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatrizsilva18) or by email beagaara@gmail.com
 - 😄 Pronouns: Bea or BeaGoddess
 - ⚡ Fun fact: I love playing videogames and watching animes or korean dramas. My hobbie is streaming games at Twitch
 
-#
-
-## 🔮 #30NitesOfCode:
+# 🔮 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@BeaGoddess/30-nites-of-code)  
   ![@BeaGoddess #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BeaGoddess)
 
