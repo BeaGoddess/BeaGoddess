@@ -36,8 +36,6 @@ I have a Master's degree in Engineering and Management of Information Systems.
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beagoddess&layout=compact&theme=dark)
-
 ## 🔮 #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@BeaGoddess/30-nites-of-code)  
   ![@BeaGoddess #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BeaGoddess)
