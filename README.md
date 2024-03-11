@@ -30,7 +30,7 @@ I have a Master's degree in Engineering and Management of Information Systems.
 # 🔎❓ About me
 
 - 🌱 I’m currently learning React, React Native and TypeScript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatrizsilva18) or by email beagaara@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatrizsilva18) or by email beatriz.rodri.silva18@gmail.com
 - 😄 Pronouns: Bea or BeaGoddess
 - ⚡ Fun fact: I love playing videogames and watching animes or korean dramas. My hobbie is streaming games at Twitch
 
