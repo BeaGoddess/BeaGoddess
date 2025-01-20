@@ -1,6 +1,6 @@
 # 🤗 Hi there 👋
 
-My name is Beatriz Silva and I'm 23 years old. I'm living in Guimarães, Portugal.
+My name is Beatriz Silva and I'm 24 years old. I'm living in Guimarães, Portugal.
 I have a Master's degree in Engineering and Management of Information Systems.
 
 
