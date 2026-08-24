@@ -7,14 +7,13 @@
 ## 👩🏼‍💻 About Me
 
 - 📍 Based in Guimarães, Portugal
-- 👧 24-year-old female developer
+- 👧 26-year-old female developer
 - 🎓 Master's in Engineering and Management of Information Systems
 - 💼 Currently working at [Exeedme](http://linkedin.com/company/exeedmelda), contributing to projects like:
   - Exeedme
   - GGCASE
   - Skins Protocol
 - 🎮 Gaming enthusiast, anime lover, and K-drama fan
-- 🔴 Game streamer on [Twitch](https://www.twitch.tv/beagoddess)
 
 ## 🛠️ Tech Stack
 
