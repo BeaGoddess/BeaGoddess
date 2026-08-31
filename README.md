@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz.rodri.silva18@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/beagoddess)
 
+🔗 [Portfolio](https://beatriz-silva-portfolio.vercel.app/) *(work in progress)*
+
 ## 👩🏼‍💻 About Me
 
 - 📍 Based in Guimarães, Portugal
