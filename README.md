@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Building
 
-- 🎁 **[wishbook](https://github.com/beagoddess/wishbook)** — wishlist app built with React, TanStack Start, Prisma, and Supabase (PostgreSQL)
+- 🎁 **[wishbook](https://github.com/beagoddess/wishbook)** — Genshin Impact sticker album: open daily packs, collect random cards, and trade duplicates with other players. Built with React, TanStack Start, Prisma, and Supabase (PostgreSQL) 
 - 🧮 **spenderella-angular / spenderella-api** — full-stack expense tracker built to learn Angular and Java; Angular frontend + Spring Boot API
 - 📓 **[death-note](https://github.com/beagoddess/death-note)** — project to learn Angular
 - ✅ **[day-tracker](https://github.com/beagoddess/day-tracker)** — habit tracker built with Angular, TypeScript, and TailwindCSS
