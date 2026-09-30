@@ -6,7 +6,8 @@
 🔗 [Portfolio](https://beatriz-silva-portfolio.vercel.app/) *(work in progress)*
 
 ## 🚀 What I'm Building
- 
+
+- 🎁 **[wishbook](https://github.com/beagoddess/wishbook)** — wishlist app built with React, TanStack Start, Prisma, and Supabase (PostgreSQL)
 - 🧮 **spenderella-angular / spenderella-api** — full-stack expense tracker built to learn Angular and Java; Angular frontend + Spring Boot API
 - 📓 **[death-note](https://github.com/beagoddess/death-note)** — project to learn Angular
 - ✅ **[day-tracker](https://github.com/beagoddess/day-tracker)** — habit tracker built with Angular, TypeScript, and TailwindCSS
@@ -40,6 +41,7 @@ Building and maintaining web applications for the Counter-Strike 2 (CS2) ecosyst
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-000000?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,4 +58,6 @@ Building and maintaining web applications for the Counter-Strike 2 (CS2) ecosyst
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
